@@ -1,0 +1,20 @@
+{
+    "id": "HaltonMEP",
+    "name": "HaltonMEP",
+    "models": [
+        {
+            "id": "design",
+            "name": "Halton MEP"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "models"
+    }
+}
